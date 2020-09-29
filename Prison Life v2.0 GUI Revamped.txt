@@ -1,0 +1,1 @@
+game.ReplicatedStorage.REvents.Pokemon.pokiemanz:InvokeServer("Darkrai", game.Players.LocalPlayer.PokemonParty, 50, true, true)
